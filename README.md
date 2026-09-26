@@ -42,7 +42,7 @@
 
 | Projeto | Descrição |
 |---|---|
-| [Projeto-android](https://github.com/marcosbr29/Projeto-android) | App em React Native/Expo |
+| [Financia-app]([https://github.com/marcosbr29/Projeto-android](https://github.com/marcosbr29/Financia-app)) | App em React Native/Expo |
 | [Java-POO](https://github.com/marcosbr29/Java-POO) | Exemplos de Programação Orientada a Objetos em Java |
 | [programacao-c](https://github.com/marcosbr29/programacao-c) | Estudos e exercícios em linguagem C |
 | [Apredendo-python](https://github.com/marcosbr29/Apredendo-phayton) | Exemplos básicos de Python |
