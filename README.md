@@ -49,16 +49,4 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<table>
-<tr>
-<td valign="top">
-  <img alt="GitHub Stats" height="200" src="https://github-stats-extended.vercel.app/api?username=marcosbr29&theme=tokyonight&custom_title=GitHub%20Stats" />
-</td>
-<td valign="top">
-  <img alt="Tecnologias" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcosbr29&theme=tokyonight&custom_title=Tecnologias&langs_count=9" />
-</td>
-</tr>
-</table>
 
