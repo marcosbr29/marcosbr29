@@ -6,11 +6,11 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente estudando **C, Python e Java**
-- 📱 Desenvolvendo projetos em **React Native / Expo**
-- 🌱 Aprendendo a estruturar melhor meus projetos (componentes, páginas e estilos separados)
-- 💬 Aberto a colaborar em projetos e trocar ideias
-- 📫 Como me encontrar: [GitHub](https://github.com/marcosbr29)
+- Atualmente estudando **C, Python e Java**
+- Desenvolvendo projetos em **React Native / Expo**
+- Aprendendo a estruturar melhor meus projetos (componentes, páginas e estilos separados)
+- Aberto a colaborar em projetos e trocar ideias
+- Como me encontrar: [GitHub](https://github.com/marcosbr29)
 
 ---
 
