@@ -1,10 +1,10 @@
-<h1 align="center">👨🏼‍💻Marcos</h1>
+<h1 align="center">👨🏻‍💻Marcos</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Desenvolvedor%20Fullstack-00BFFF?style=flat-square" alt="Desenvolvedor Fullstack" />
 </p>
 
-### 🧑‍💻 Sobre mim
+### 👨🏻‍💻 Sobre mim
 
 - Atualmente estudando **C, Python e Java**
 - Desenvolvendo projetos em **React Native / Expo**
